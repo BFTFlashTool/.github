@@ -2,7 +2,7 @@ BFT Tool is a professional Windows-based Android utility designed to help users 
 
 This guide explains the features, compatibility, installation process, and safe usage of BFT Tool for beginners and professionals.
 
-### <a href="pcsoftshub.com">BFT Tool</a>
+### <a href="https://pcsoftshub.com/">BFT Tool</a>
 
 ## What is BFT Tool?
 
